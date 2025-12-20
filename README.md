@@ -1,9 +1,9 @@
-To-Do List Sederhana
-# Project Name
-Ini merupakan project to-do list sederhana yang dibuat menggunakan basic html,css dan Java Script
+# Simple To-Do List
+
+A simple to-do list project built using basic HTML, CSS, and JavaScript.
 
 ## 🎯 Project Goal
-Tujuan dari project ini bukan hanya melatih basic HTML dan CSS. Tapijuga melatih penambahan code Java Script dalam project tersebut  
+The goal of this project is not only to practice basic HTML and CSS, but also to learn how to add and use JavaScript code in a web project.
 
 ## 🛠️ Tech Stack
 - HTML
@@ -11,9 +11,10 @@ Tujuan dari project ini bukan hanya melatih basic HTML dan CSS. Tapijuga melatih
 - JavaScript
 
 ## 📚 What I Learned
-Basic Java Script: 
-- DOM
-- Function
-- Pengkondisian (if-else)
-- Pengulangan (while & for)
+Basic JavaScript concepts, including:
+- DOM manipulation
+- Functions
+- Conditional statements (if-else)
+- Loops (while & for)
+
 
